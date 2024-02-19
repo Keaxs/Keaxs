@@ -9,6 +9,3 @@ I'm currently a student that is working on improving my frontend and backend ski
 
 ## ⚙️ Backend Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
----
-[![](https://visitcount.itsvg.in/api?id=Keaxs&icon=0&color=0)](https://visitcount.itsvg.in)
